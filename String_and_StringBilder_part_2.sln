@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String_and_StringBilder_part_2", "String_and_StringBilder_part_2\String_and_StringBilder_part_2.csproj", "{F375EFF3-AD10-4BF9-BCE9-6CBD68126AD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F375EFF3-AD10-4BF9-BCE9-6CBD68126AD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F375EFF3-AD10-4BF9-BCE9-6CBD68126AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F375EFF3-AD10-4BF9-BCE9-6CBD68126AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F375EFF3-AD10-4BF9-BCE9-6CBD68126AD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC5AE2A0-AB67-4C0F-9C79-B29777712481}
+	EndGlobalSection
+EndGlobal
